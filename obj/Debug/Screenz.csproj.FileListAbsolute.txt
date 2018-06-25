@@ -1,0 +1,13 @@
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Debug\Screenz.exe.config
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Debug\Screenz.exe
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Debug\Screenz.pdb
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.csprojResolveAssemblyReference.cache
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.Form1.resources
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.Properties.Resources.resources
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.csproj.GenerateResource.Cache
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.csproj.CoreCompileInputs.cache
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.exe
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.pdb
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\Screenz.Form2.resources
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Debug\ScreenZ.Settings.resources

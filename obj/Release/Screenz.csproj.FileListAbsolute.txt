@@ -1,0 +1,12 @@
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\Screenz.Form1.resources
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\Screenz.Form2.resources
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\ScreenZ.Properties.Resources.resources
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\Screenz.csproj.GenerateResource.Cache
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\Screenz.csproj.CoreCompileInputs.cache
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Release\ScreenZ.exe.config
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Release\ScreenZ.exe
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Release\ScreenZ.pdb
+C:\Users\Mendax\source\repos\Screenz\Screenz\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\ScreenZ.exe
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\ScreenZ.pdb
+C:\Users\Mendax\source\repos\Screenz\Screenz\obj\Release\ScreenZ.Settings.resources
